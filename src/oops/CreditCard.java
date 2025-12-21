@@ -1,4 +1,4 @@
-package payment;
+package oops;
 
 public class CreditCard extends Card {
     CreditCard(String userName, Long cardNumber) {

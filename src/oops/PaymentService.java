@@ -1,6 +1,6 @@
-package payment;
+package oops;
 
-import payment.transaction.Payment;
+import oops.transaction.Payment;
 
 import java.util.HashMap;
 

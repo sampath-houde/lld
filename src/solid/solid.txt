@@ -1,0 +1,22 @@
+S - Single Responsibility Principle
+O - Open/Closed Principle
+L - Liskov Substitution Principle
+I - Interface Segregation Principle
+D - Dependency Inversion Principle
+
+
+## S - Single Responsibility Principle
+A class should handle only one responsibility. It should not deviate from what it is supposed to do
+
+## O - Open/Closed Principle
+A Class already written in production should be open for extension and closed for modification.
+
+## L - Liskov Substitution Principle
+objects of superclass should be replaceable with objects of its subclasses.
+
+## I - Interface Segregation Principle
+A class should not be bound to implement any functionality if it does not use. Here the interface should be separated or segregated into more and defined interfaces.
+I and L principles often solves violations of others.
+
+## D - Dependency Inversion Principle
+High Level Modules should not depend on low level modules directly. This violation is solved using interfaces, abstract classes

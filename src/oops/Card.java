@@ -1,7 +1,7 @@
-package payment;
+package oops;
 
 
-import payment.transaction.Payment;
+import oops.transaction.Payment;
 
 public abstract class Card implements Payment {
 

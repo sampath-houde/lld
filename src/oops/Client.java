@@ -1,6 +1,4 @@
-package payment;
-
-import payment.transaction.Payment;
+package oops;
 
 public class Client {
 

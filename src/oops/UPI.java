@@ -1,6 +1,6 @@
-package payment;
+package oops;
 
-import payment.transaction.Payment;
+import oops.transaction.Payment;
 
 public class UPI implements Payment {
 

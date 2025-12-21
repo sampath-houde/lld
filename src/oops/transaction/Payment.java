@@ -1,4 +1,4 @@
-package payment.transaction;
+package oops.transaction;
 
 public interface Payment {
     void pay();

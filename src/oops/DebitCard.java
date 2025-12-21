@@ -1,4 +1,4 @@
-package payment;
+package oops;
 
 public class DebitCard extends Card {
     DebitCard(String userName, Long cardNumber) {
